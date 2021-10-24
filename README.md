@@ -5,6 +5,7 @@ I'm currently studying Computer Engineering at the University of California Sant
 ## All the links
 
 [![LinkedIn Profile](img/LinkedIn.png | width=50)](https://www.linkedin.com/in/neilbalch)
+<a href="https://www.linkedin.com/in/neilbalch"><img align="left" src="img/LinkedIn.png" alt="LinkedIn Profile" width="21px"/></a>
 
 <!--
 **neilbalch/neilbalch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
