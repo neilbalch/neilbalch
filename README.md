@@ -1,17 +1,23 @@
 <h1 align="center">Hello, I'm Neil Balch! 👋</h1>
 
-<div style="text-align:center">
+<div align="center">
 <a href="https://www.linkedin.com/in/neilbalch"><img display="inline-block" src="img/LinkedIn.png" alt="LinkedIn Profile" width="21px"/></a>
 <a href="https://stackoverflow.com/users/3339274/ifconfig"><img display="inline-block" src="img/StackOverflow.png" alt="Stack Overflow Profile" width="21px"/></a>
 <a href="https://stackexchange.com/users/3920449/ifconfig"><img display="inline-block" src="img/StackExchange.png" alt="Stack Exchange Profile" width="21px"/></a>
 <a href="https://twitter.com/ifconfig111"><img display="inline-block" src="img/Twitter.png" alt="Twitter Profile" width="21px"/></a>
+
+<!-- Comment above and uncomment below to make the images work in VSCode -->
+
+<!-- <a href="https://www.linkedin.com/in/neilbalch"><img display="inline-block" src="https://raw.githubusercontent.com/neilbalch/neilbalch/main/img/LinkedIn.png" alt="LinkedIn Profile" width="21px"/></a>
+<a href="https://stackoverflow.com/users/3339274/ifconfig"><img display="inline-block" src="https://raw.githubusercontent.com/neilbalch/neilbalch/main/img/StackOverflow.png" alt="Stack Overflow Profile" width="21px"/></a>
+<a href="https://stackexchange.com/users/3920449/ifconfig"><img display="inline-block" src="https://raw.githubusercontent.com/neilbalch/neilbalch/main/img/StackExchange.png" alt="Stack Exchange Profile" width="21px"/></a>
+<a href="https://twitter.com/ifconfig111"><img display="inline-block" src="https://raw.githubusercontent.com/neilbalch/neilbalch/main/img/Twitter.png" alt="Twitter Profile" width="21px"/></a> -->
 </div>
-</br>
+<div align="center">
+<a display="inline-block" href="https://stackexchange.com/users/3920449/ifconfig"><img src="https://stackexchange.com/users/flair/3920449.png" width="208" height="58" alt="profile for ifconfig on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ifconfig on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+</div>
 
 I'm currently studying Computer Engineering at the University of California Santa Barbara and planning to specialize in embedded system design and hardware/software development. Come take a look at some of my own personal/hobby repositories, as well as some of the open-source projects I've been assisting in my spare time.
-
-</br>
-<a href="https://stackexchange.com/users/3920449/ifconfig"><img src="https://stackexchange.com/users/flair/3920449.png" width="208" height="58" alt="profile for ifconfig on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ifconfig on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ## Current Skill Set
 
