@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Neil Balch!
+
+I'm currently studying Computer Engineering at the University of California Santa Barbara and planning to specialize in embedded system design and hardware/software development. Come take a look at some of my own personal/hobby repositories, as well as some of the open-source projects I've been assisting in my spare time.
+
+## All the links
+
+[![LinkedIn Profile](img/LinkedIn.png)](https://www.linkedin.com/in/neilbalch)
 
 <!--
 **neilbalch/neilbalch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
