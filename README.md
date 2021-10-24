@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Neil Balch! 👋</h1>
 
-<div text-align="center">
+<div style="text-align:center">
 <a href="https://www.linkedin.com/in/neilbalch"><img display="inline-block" src="img/LinkedIn.png" alt="LinkedIn Profile" width="21px"/></a>
 <a href="https://stackoverflow.com/users/3339274/ifconfig"><img display="inline-block" src="img/StackOverflow.png" alt="Stack Overflow Profile" width="21px"/></a>
 <a href="https://stackexchange.com/users/3920449/ifconfig"><img display="inline-block" src="img/StackExchange.png" alt="Stack Exchange Profile" width="21px"/></a>
