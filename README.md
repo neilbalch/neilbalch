@@ -1,20 +1,21 @@
-### Hello, I'm Neil Balch! 👋
-
-I'm currently studying Computer Engineering at the University of California Santa Barbara and planning to specialize in embedded system design and hardware/software development. Come take a look at some of my own personal/hobby repositories, as well as some of the open-source projects I've been assisting in my spare time.
-
-## All the links
-
+<h1 align="center">Hello, I'm Neil Balch! 👋
+(
 <a href="https://www.linkedin.com/in/neilbalch"><img align="left" src="img/LinkedIn.png" alt="LinkedIn Profile" width="21px"/></a>
 <a href="https://stackoverflow.com/users/3339274/ifconfig"><img align="left" src="img/StackOverflow.png" alt="Stack Overflow Profile" width="21px"/></a>
 <a href="https://stackexchange.com/users/3920449/ifconfig"><img align="left" src="img/StackExchange.png" alt="Stack Exchange Profile" width="21px"/></a>
 <a href="https://twitter.com/ifconfig111"><img align="left" src="img/Twitter.png" alt="Twitter Profile" width="21px"/></a>
+)
+</h1>
+
+I'm currently studying Computer Engineering at the University of California Santa Barbara and planning to specialize in embedded system design and hardware/software development. Come take a look at some of my own personal/hobby repositories, as well as some of the open-source projects I've been assisting in my spare time.
+
 
 </br>
 <a href="https://stackexchange.com/users/3920449/ifconfig"><img src="https://stackexchange.com/users/flair/3920449.png" width="208" height="58" alt="profile for ifconfig on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ifconfig on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ## Current Skill Set
 
-This is a decently comprehensive list of the technologies I have worked with before. I to not intend to guarantee advanced knowledge of all tools listed.
+A decently comprehensive list of the technologies I have worked with before. I do not have advanced knowledge of all tools listed.
 
 ### Languages and Major Franeworks
 
