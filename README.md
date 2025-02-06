@@ -19,6 +19,7 @@
 
 I'm currently studying Computer Engineering at the University of California Santa Barbara and planning to specialize in embedded system design and hardware/software development. Come take a look at some of my own personal/hobby repositories, as well as some of the open-source projects I've been assisting in my spare time.
 
+<!-- I don't like the rest anymore :(
 ## Familiar Tools
 
 ### Languages and Major Franeworks
